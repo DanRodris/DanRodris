@@ -5,7 +5,7 @@
 
 ![DanRodris GitHub stats](https://github-readme-stats.vercel.app/api?username=DanRodris&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanRodris&layout=compact)](https://github.com/DanRodris/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanRodris&layout=compact&langs_count=16&theme=dracula)](https://github.com/DanRodris/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia
 
@@ -18,4 +18,3 @@
 </div><br>
 
 Gosto muito de estudar e apreender sobre o mundo da tecnologia e como ela por mudar a vida das pessoas.
-
